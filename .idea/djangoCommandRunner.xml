@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DjangoCommandHistory">
+    <option name="commandArguments">
+      <map>
+        <entry key="changepassword" value="" />
+        <entry key="createsuperuser" value="" />
+        <entry key="migrate" value="--fake" />
+        <entry key="runserver" value="0.0.0.0:8000" />
+        <entry key="startapp" value="myapp" />
+      </map>
+    </option>
+    <option name="recentCommands">
+      <list>
+        <option value="runserver" />
+        <option value="changepassword" />
+        <option value="createsuperuser" />
+        <option value="migrate" />
+        <option value="startapp" />
+      </list>
+    </option>
+  </component>
+</project>
